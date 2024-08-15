@@ -50,6 +50,16 @@ body {
   width: 100%;
   height: 100%;
   background-color: #736A62;
-  opacity: 0.8;
+  opacity: 0.8; 
+}
+
+.copytext-block {
+  padding: 20px 50px;
+  background-color: #e4e4e4;
+}
+
+.custom-heading-h2 {
+  font-weight: 300 !important;
+  color: var(--bs-secondary-color);
   
 }
