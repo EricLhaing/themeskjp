@@ -26,6 +26,11 @@ body {
   height: 100%;
 }
 
+product-image-sm {
+  width: 30%;
+  height: 30%;
+}
+
 .teaser-overlay {
   top: 0;
   width: 100%;
